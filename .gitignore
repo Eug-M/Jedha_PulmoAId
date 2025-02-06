@@ -1,0 +1,20 @@
+# Fichiers python
+.venv
+tmp
+__pycache__
+
+# Fichiers Mac
+.DS_Store
+
+# Variables d'env
+.env
+
+#Fichiers kaggle
+data
+*.zip
+
+#Fichiers MLFlow
+confusion_matrix.png
+classification_report.txt
+roc_curve.png
+mlruns
